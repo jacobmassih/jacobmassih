@@ -1,6 +1,6 @@
 # Hi, I'm Jacob
 
-Software developer focused on building practical tools with clean interfaces and thoughtful engineering.
+I build practical software with clean interfaces, thoughtful design, and reliable engineering. I care about simple interfaces, readable code, practical architecture, and software that feels easy to use.
 
 ```swift
 struct AboutMe {
