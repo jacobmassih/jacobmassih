@@ -19,5 +19,3 @@ struct AboutMe {
     ]
 }
 ```
-
-[Website](https://jacobmassih.github.io/) · [LinkedIn](https://www.linkedin.com/in/jacobmassih/) · [Email](mailto:massih.jacob@gmail.com)
